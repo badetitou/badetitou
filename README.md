@@ -1,4 +1,6 @@
-### Hi there 👋 - Benoît "badetitou" Verhaeghe
+<h1 align='center'>
+Hi there 👋 - Benoît "badetitou" Verhaeghe
+</h1>
 
 <p align='center'>
   
@@ -13,7 +15,7 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=badetitou&show_icons=true" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=badetitou&show_icons=true" width="400"></a>
 </p>
 
 <p align='center'>
