@@ -20,5 +20,9 @@ Hi there 👋 - Benoît "badetitou" Verhaeghe
 </p>
 
 <p align='center'>
-My name is Benoît "badetitou" Verhaeghe. I work on migration tools and on tests.
+    My name is Benoît "badetitou" Verhaeghe. I work on migration tools and on tests.
+</p>
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=badetitou&show_icons=true" />
 </p>
