@@ -9,8 +9,8 @@ Hi there 👋 - Benoît "badetitou" Verhaeghe
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   
-  <a href="https://badetitou.github.io/">
-    <img src="https://img.shields.io/badge/Website-badetitou.github.io-blue?style=for-the-badge" />
+  <a href="https://badetitou.fr">
+    <img src="https://img.shields.io/badge/Website-badetitou.fr-blue?style=for-the-badge" />
   </a>&nbsp;
   
   <a href="https://github.com/badetitou/AltaCV/releases/download/latest/cv.pdf">
