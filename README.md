@@ -1,5 +1,5 @@
 <h1 align='center'>
-Hi there 👋 - Benoît "badetitou" Verhaeghe
+Hi there 👋 - Benoit "badetitou" Verhaeghe
 </h1>
 
 <p align='center'>
