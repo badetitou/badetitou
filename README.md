@@ -20,7 +20,7 @@ Hi there 👋 - Benoit "badetitou" Verhaeghe
 </p>
 
 <p align='center'>
-    My name is Benoît "badetitou" Verhaeghe. I work on migration tools and on tests.
+    My name is Benoit "badetitou" Verhaeghe. I work on migration tools and on tests.
 </p>
 
 <!-- <p align='center'>
